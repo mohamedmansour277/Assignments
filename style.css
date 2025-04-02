@@ -84,20 +84,6 @@ h1 {
     margin-bottom: 5px;
 }
 
-#m27 {
-    background: rgb(255, 255, 255);
-    padding: 10px;
-    border-radius: 9px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-right: 2px solid #b8a428; /* خط جانبي مثل موقع الزيرو */
-    border-left: 2px solid #b8a428; /* خط جانبي مثل موقع الزيرو */
-    border-bottom: 2px solid #b8a428; /* خط جانبي مثل موقع الزيرو */
-    border-top: 2px solid #b8a428; /* خط جانبي مثل موقع الزيرو */
-    text-align: right;
-    transition: 0.3s;
-
-}
-
 small{
 
 
